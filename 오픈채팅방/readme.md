@@ -3,3 +3,7 @@ Source1에서는 공백으로 구분된 문자열에서 아이디와 닉네임�
 그래서 코드가 굉장히 지저분하고 알아보기 힘들다.
 
 Source2에서는 sstream을 사용하여 문자열을 아주 간단하게 쪼갤 수 있었다.
+
+
+문제 링크
+https://programmers.co.kr/learn/courses/30/lessons/42888
