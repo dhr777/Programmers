@@ -20,7 +20,6 @@ vector<int> solution(vector<int> prices) {
 		answer.push_back(count);
 		count = 0;
 	}
-
 	answer.push_back(0);
 	
 	return answer;
